@@ -8,3 +8,4 @@ F1D02310066	| KARINA SEPTIA SUWANDI
 
 F1D02310099	| ZARIZKY MEIDYANSYAH
 
+Klasifikasi citra Jamur untuk mengidentifikasi perbedaan Cyttaria espinosae dan Morchella esculenta
